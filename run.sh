@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-echo "helloooooo buddy"
+echo "helloooooo child :"
